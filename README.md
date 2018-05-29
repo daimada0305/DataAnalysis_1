@@ -1,2 +1,2 @@
-# DataAnalysis_1
+﻿# JST-DataAnalysis
 データ解析に使うやつのバックアップを作成しようと心に決めました。
